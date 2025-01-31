@@ -10,7 +10,7 @@ The company aims to gain deeper sales insights and make accurate data-driven dec
 
 [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFjNDMwZTItODQ2My00NGFhLThhMmUtYTVhNGRlYjNkZTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - [**Home Page**](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/Home%20Page.png): Acts as the central hub for navigating the entire dashboard.
-- [**Finance View**](ttps://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/Finance%20View.png): A dynamic Profit & Loss statement that evaluates financial performance across markets, products, and customer segments.
+- [**Finance View**](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/Finance%20View.png): A dynamic Profit & Loss statement that evaluates financial performance across markets, products, and customer segments.
 - [**Sales View**](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/Sale%20View.png): Offers insights into top and bottom-performing customers, along with key sales metrics to strengthen relationship management.
 - [**Marketing View**](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/marketing%20View.png): Monitors product performance metrics to inform marketing strategies and product development.
 - [**Supply Chain View**](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/Supply%20chain.png): Measures supply chain efficiency using KPIs such as forecast accuracy, net error, and absolute error.
