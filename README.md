@@ -5,7 +5,6 @@ AtliQ Hardware manufactures and distributes computer peripherals, including netw
 The company aims to gain deeper sales insights and make accurate data-driven decisions through data analysis techniques.
 
 ---
-
 ### About the Power BI Dashboard
 
 [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFjNDMwZTItODQ2My00NGFhLThhMmUtYTVhNGRlYjNkZTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
