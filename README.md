@@ -18,8 +18,7 @@ The company aims to gain deeper sales insights and make accurate data-driven dec
 
 ---
 
-### Dataset Overview
-[Data Model](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/data%20model.png)
+### Dataset Overview  [Data Model](https://github.com/HsiaoChuHao/Power-BI-Business-Insights-360/blob/c57d812031d62f7e3aade76e7c22080818ea64e8/data%20model.png)
 #### data source:
 - SQL
 - Excel
